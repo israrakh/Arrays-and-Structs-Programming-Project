@@ -1,6 +1,8 @@
 // Arrays and Structs Programming Project.cpp : This file contains the Marathon Runners with Parallel Arrays and Structs.
 //
 
+
+// Marathon Runners with Parallel Arrays Program.
 #include <iostream>
 #include <iomanip>
 #include <string>
